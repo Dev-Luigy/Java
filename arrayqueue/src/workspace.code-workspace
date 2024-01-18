@@ -1,0 +1,15 @@
+{
+	"folders": [],
+	"settings": {
+		"java.project.sourcePaths": [
+			"arrayqueue"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		],
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
